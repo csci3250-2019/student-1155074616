@@ -11,6 +11,7 @@ Currently, my course progress is:
 - [ ] Milestone3
 
 In terms of difficulty:
+
 | Task  | Description   | Diff  |
 | ----- |:-------------:| -----:|
 |     1 | learn github  |     1 |
